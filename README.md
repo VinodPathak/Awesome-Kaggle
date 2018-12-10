@@ -12,3 +12,5 @@ Kaggle Past Solutions
 ##### Taxi Fare Prediction  
 * https://www.kaggle.com/willkoehrsen/a-walkthrough-and-a-challenge  
 
+##### Multilabel Classification  
+* https://www.kaggle.com/olgabelitskaya/multi-label-classification-models  
